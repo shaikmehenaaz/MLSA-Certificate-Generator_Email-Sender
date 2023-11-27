@@ -1,2 +1,77 @@
-Email,Name
-test@test.com,FirstName LastName
+﻿ID,Start time,Completion time,Emails,Names,Last modified time,Name,Email,WhatsApp Number,"Your Microsoft Learn Profile?
+
+To Create One
+1. Just Go to learn.microsoft.com  .
+2. In the Top-right corner click on Sign in
+3. if you already have a microsoft account, sign in with that. If not ..."
+1,11-20-23 11:17:15,11-20-23 11:19:25,anonymous,,,Preeti Kintali,preetikintali@outlook.com,7382107851,https://learn.microsoft.com/en-in/users/preetik-2207/
+2,11-20-23 11:21:54,11-20-23 11:22:27,anonymous,,,THIRUMALAPUDI ROOP RAHUL,rahul.19mis7032@vitap.ac.in,7702994815,https://learn.microsoft.com/training/challenges?id=c04d6c64-e15e-409a-8146-50171bf5c825&WT.mc_id=cloudskillschallenge_c04d6c64-e15e-409a-8146-50171bf5c825&wt.mc_id=studentamb_291025
+3,11-20-23 11:28:29,11-20-23 11:30:38,anonymous,,,MAYALURI ANUSHA,anusha.21bce9143@vitapstudent.ac.in,7893102861,https://learn.microsoft.com/en-us/users/mayalurianusha-4253/
+4,11-20-23 11:41:54,11-20-23 11:42:18,anonymous,,,Jahnavi Tulluru ,jahnavi.21bce7037@vitapstudent.ac.in,6281918253,https://learn.microsoft.com/en-us/users/jahnavitulluru-8702/
+5,11-20-23 12:48:45,11-20-23 12:49:53,anonymous,,,Jai Prakash Bellamkonda ,bjaiprakash26@gmail.com,7989497005,https://learn.microsoft.com/en-us/users/jaiprakashbellamkonda-0931/
+6,11-20-23 14:36:47,11-20-23 14:37:47,anonymous,,,Kotha Usha ,ushakotha09@gmail.com,9963331365,https://learn.microsoft.com/en-us/users/kothausha-4135/
+7,11-20-23 23:51:04,11-20-23 23:54:34,anonymous,,,Rudrika Singh,rudrikasingh04@gmail.com,896600001,https://learn.microsoft.com/en-us/users/rudrikasingh-4366/
+8,11-21-23 9:23:47,11-21-23 9:25:34,anonymous,,,Thandaka Subhadeep,subhadeepthandaka@gmail.com,7981861051,https://learn.microsoft.com/en-in/users/subhadeepthandaka-6282/
+9,11-22-23 9:18:36,11-22-23 9:20:25,anonymous,,,Kartikeya Gorantla ,gorantlakartikeya@gmail.com,9980505997,https://learn.microsoft.com/en-us/users/kartikeyagorantla-4451/
+10,11-22-23 9:23:02,11-22-23 9:25:26,anonymous,,,Chigurupati Supratheek,supratheek.20bce7037@vitap.ac.in,9347475560,https://learn.microsoft.com/en-gb/users/chigurupatisupratheek-5362/
+11,11-22-23 10:00:37,11-22-23 10:01:44,anonymous,,,Cheryl Sharma,cherylsharma.2002@outlook.com,9358366075,https://learn.microsoft.com/en-us/users/cherylsharma-5220/
+12,11-22-23 10:11:05,11-22-23 10:12:17,anonymous,,,J VENKATA LAKSHMI SAI ROHITH,sairohith.21bce7494@vitapstudent.ac.in,9652762460,https://learn.microsoft.com/en-in/users/jvenkatalakshmisairohith21bce7494-9191/
+13,11-22-23 10:31:45,11-22-23 10:37:00,anonymous,,,Katta Manoj Kumar,kattamanojkumar2005@gmail.com,6281215816,https://learn.microsoft.com/en-in/users/manojkatta-4595/settings#account-linking
+14,11-22-23 10:37:08,11-22-23 10:38:14,anonymous,,,KUPPIREDDY BHAGEERATHA REDDY ,bhageeratha.22bce20355@vitapstudent.ac.in,6300009641,https://learn.microsoft.com/en-in/users/kuppireddybhageerathareddy-8132/
+15,11-22-23 10:35:53,11-22-23 10:40:11,anonymous,,,SAI NARENDRA PANGA,saipanga678@gmail.com,7660866732,https://learn.microsoft.com/en-us/users/sainarendrapanga-9071/
+16,11-22-23 10:40:06,11-22-23 10:42:03,anonymous,,,Vajrala Vishnu Vardhan Reddy,vishnu.22bce7972@vitapstudent.ac.in,9063055219,https://learn.microsoft.com/en-us/users/vvishnuvardhanreddy-9924/
+17,11-22-23 11:13:56,11-22-23 11:15:44,anonymous,,,meka . durga sai Vardhan reddu,vardhan.21bce7399@vitapstudent.ac.in,7013108484,https://learn.microsoft.com/en-us/users/mekadurgasaivardhanreddy-6604/
+18,11-22-23 11:06:23,11-22-23 12:00:54,anonymous,,,DEEPAK N,deepak.22bce8822@vitapstudent.ac.in ,6374882446,https://learn.microsoft.com/en-gb/users/deepakn-4300/
+19,11-22-23 12:28:05,11-22-23 12:31:08,anonymous,,,Manasa M,manasa.22bce9544@vitapstudent.ac.in,6301359218,https://learn.microsoft.com/en-us/users/manasamundru-5971/
+20,11-22-23 12:33:10,11-22-23 12:38:31,anonymous,,,Jagadeep Mamidi ,jagadeep.22bce8569@vitapstudent.ac.in,9490822555,https://learn.microsoft.com/en-us/users/mjagadeep-9084/
+21,11-22-23 12:38:39,11-22-23 12:40:02,anonymous,,,Harsh Nandal,harsh.22bce8095@vitapstudent.ac.in,9813081155,https://learn.microsoft.com/en-us/users/harshnandal-1170/
+22,11-22-23 13:58:41,11-22-23 14:02:53,anonymous,,,ABEL MATHEW ABRAHAM,abraham.22bec7127@vitapstudent.ac.in,9037504176,https://learn.microsoft.com/en-us/users/abelmathewabraham-0523/
+23,11-22-23 14:04:55,11-22-23 14:05:28,anonymous,,,Ayush Goswami,ayush.22bec7076@vitapstudent.ac.in,7017564119,https://learn.microsoft.com/en-in/users/ayushgoswami-9299/
+24,11-22-23 14:27:01,11-22-23 14:31:58,anonymous,,,CHALLA NAGA DHANUNJAYA,dhanunjaya.22bce8326@vitapstudent.ac.in,9866078083,https://learn.microsoft.com/en-us/users/challanagadhanunjaya-1042/
+25,11-22-23 14:46:09,11-22-23 14:47:52,anonymous,,,Anjith Thomas Jose,anjith.22bce7289@vitapstudent.ac.in,8075850352,https://learn.microsoft.com/en-in/users/anjiththomasjose-4398/
+26,11-22-23 17:02:28,11-22-23 17:03:25,anonymous,,,Yepuri Harsha Vardhan,2404harshavardhan@gmail.com,7989896549,https://learn.microsoft.com/en-us/users/yepuriharshavardhan/
+27,11-22-23 17:19:33,11-22-23 17:27:02,anonymous,,,Thoyaja Vishwanatha,vishwanaththoyaza@gmail.com,8522804528 ,https://learn.microsoft.com/en-in/users/thoyajavishwanatha-1057/
+28,11-22-23 18:06:37,11-22-23 18:07:06,anonymous,,,Yaswanth K,yaswanthkesapuram@gmail.com,9392706643,https://learn.microsoft.com/en-us/users/yaswanthk-3935/
+29,11-22-23 18:06:47,11-22-23 18:07:16,anonymous,,,Yaswanth K,yaswanthkesapuram@gmail.com,9392706643,https://learn.microsoft.com/en-us/users/yaswanthk-3935/
+30,11-22-23 18:05:17,11-22-23 18:07:33,anonymous,,,Maddi Vasavi Geethika ,mgeethika490@gmail.com,7095486849,https://learn.microsoft.com/en-us/users/geethikamaddi-4027/
+31,11-22-23 19:10:36,11-22-23 19:11:52,anonymous,,,Sangoju Rupeswara Babu,rupeshbabu.sangoju@gmail.com,7416561689,https://learn.microsoft.com/en-us/users/rupeshsangoju-3937/
+32,11-22-23 20:21:11,11-22-23 20:34:09,anonymous,,,Jammalamadaka Manasa,manasa.21bce8372@vitapstudent.ac.in,9178844649,https://learn.microsoft.com/en-in/users/jammalamadakamanasa-2815/
+33,11-22-23 21:56:24,11-22-23 21:57:19,anonymous,,,Rishika Ghosh,rishika.22bcb7060@vitapstudent.ac.in,7890037675,https://learn.microsoft.com/en-gb/users/rishikaghosh-6154/
+34,11-22-23 21:51:23,11-22-23 22:09:35,anonymous,,,S.Moolya Sri,moolyasri.21bce8087@vitapstudent.ac.in,8328674401,https://learn.microsoft.com/en-us/users/smoolyasri-2177/
+35,11-23-23 10:12:56,11-23-23 10:16:59,anonymous,,,Edhara Jnaneswar Chowdary,jnanswar.22bce9296@vitapstudent.ac.in,8522990114,https://learn.microsoft.com/en-gb/users/edharajnaneswarchowdary-4327/
+36,11-23-23 12:43:41,11-23-23 12:45:31,anonymous,,,Gana Sai Gautham Thatha,gauthamthatha80@gmail.com,9885333597,https://learn.microsoft.com/en-us/users/gauthamthatha-0209/
+37,11-23-23 14:28:11,11-23-23 14:29:59,anonymous,,,Krishna vamsi,krishna.22bce7486@vitapstudent.ac.in,8919499299,https://learn.microsoft.com/en-gb/users/nindrakrishnavamsi-9322/
+38,11-23-23 15:09:13,11-23-23 15:10:03,anonymous,,,Golla Jaswanth,jaswanthgolla28@gmail.com,7382347916,https://learn.microsoft.com/en-us/users/gollajaswanth-4455/
+39,11-23-23 19:02:33,11-23-23 19:05:54,anonymous,,,Parimi Monish,monish.21bce8397@vitapstudent.ac.in,9361407629,https://learn.microsoft.com/en-us/users/parimimonish21bce8397-2270/
+40,11-23-23 21:29:34,11-23-23 21:30:41,anonymous,,,Angara.Balaji,angara.balaji1@gmail.com,+918919616499,https://learn.microsoft.com/en-us/users/angarabalaji-9972/
+41,11-23-23 22:10:37,11-23-23 22:11:27,anonymous,,,harshil dhoot,harshil.22bce9396@vitapstudent.ac.in,7804065745,https://learn.microsoft.com/en-us/users/harshildhoot-9209/
+42,11-23-23 22:10:36,11-23-23 22:11:52,anonymous,,,Sourabh Jain,sourabh.jain131102@gmail.com,8840643400,https://learn.microsoft.com/en-us/users/sourabhjain-2882/
+43,11-23-23 22:32:44,11-23-23 22:36:49,anonymous,,,Vaibhav Singh Khati,vaibhavsingh8931@gmail.com,9305650313,https://learn.microsoft.com/en-us/users/vaibhavsinghkhati-8903/
+44,11-23-23 23:10:07,11-23-23 23:13:30,anonymous,,,Yaman Sharma,yaman.22bme7009@vitapstudent.ac.in,9612738426,https://learn.microsoft.com/en-gb/users/yamansharma-8096/
+45,11-24-23 17:27:06,11-24-23 17:33:59,anonymous,,,JANHVI SINGH,janhvi.22bce8544@vitapstudent.ac.in,9608264623,https://learn.microsoft.com/en-us/users/janhvisingh-1988/
+46,11-24-23 20:08:38,11-24-23 20:10:22,anonymous,,,Vaibhav Singh Khati ,vaibhavsingh8931@gmail.com,9305650313,https://learn.microsoft.com/en-us/users/vaibhavsinghkhati-8903/
+47,11-24-23 21:44:48,11-24-23 21:47:37,anonymous,,,MANYAM HARISH SRI SAI PAVAN,harish.22bce20470@vitapstudent.ac.in,9553974812,https://learn.microsoft.com/en-us/users/manyamharishsrisaipavan-7226/
+48,11-24-23 22:02:15,11-24-23 22:03:32,anonymous,,,abijit prasanth nunna,abijit.22bce9785@vitapstudent.ac.in,9948670418,https://learn.microsoft.com/en-us/users/nunnaabijitprasanth-3945/
+49,11-25-23 13:42:47,11-25-23 13:43:45,anonymous,,,Chereddy Rahul,rahul.21bce9779@vitapstudent.ac.in,8639426932,https://learn.microsoft.com/en-in/users/chereddyrahul-4344/
+50,11-25-23 21:46:14,11-25-23 21:47:23,anonymous,,,Bhargav Gembali,bhargav.gembali2020@gmail.com,8484816189,https://learn.microsoft.com/en-us/users/bhargavgembali-9232/
+51,11-25-23 21:46:10,11-25-23 21:48:32,anonymous,,,Katta Manoj Kumar,kattamanojkumar2005@gmail.com,6281215816,https://learn.microsoft.com/en-in/users/manojkatta-4595/
+52,11-25-23 21:45:55,11-25-23 21:50:20,anonymous,,,V Rohit ,vvvssrohit@gmail.com,7989040519,Rohit vuyyuru
+53,11-25-23 21:53:04,11-25-23 21:55:38,anonymous,,,Karanam Mithul,karanam.mithul@gmail.com,8106679221,https://learn.microsoft.com/en-us/users/karanammithul-8928/
+54,11-25-23 21:57:21,11-25-23 21:58:39,anonymous,,,Devata.Pujitha,pujitha.21bce8981@vitapstudent.ac.in,8143182413,https://learn.microsoft.com/en-us/users/devatapujitha21bce8981-6706/
+55,11-25-23 21:54:11,11-25-23 22:00:09,anonymous,,,Abhik Das,abhikdas0811@gmail.com,9096563257,https://learn.microsoft.com/en-us/users/me/
+56,11-25-23 22:03:46,11-25-23 22:04:28,anonymous,,,M.sai mani pawan kumar,Pawan.22bce9637@vitapstudent.ac.in,8247015128,https://learn.microsoft.com/en-gb/users/mamidisaimanipawankumar-3358/settings
+57,11-25-23 21:49:54,11-25-23 22:06:36,anonymous,,,Jeffrin Wilfred w ,jeffrin.22bec7035@vitapstudent.ac.in,6374967957,https://learn.microsoft.com/en-gb/users/jeffrinwilfredw-9129/
+58,11-25-23 22:09:14,11-25-23 22:09:54,anonymous,,,Ayush Goswami,ayush.22bec7076@vitapstudent.ac.in,7017564119,https://learn.microsoft.com/en-in/users/ayushgoswami-9299/
+59,11-25-23 22:13:17,11-25-23 22:18:39,anonymous,,,Adigopula Pardhiv ,apardhiv@gmail.com,7097801548,https://learn.microsoft.com/en-in/users/apardhiv-5163/
+60,11-25-23 22:14:49,11-25-23 22:18:48,anonymous,,,Sai Harika Varada,harika1.roy@gmail.com,8309263813,https://learn.microsoft.com/en-in/users/harikavarada-1091/
+61,11-25-23 22:17:29,11-25-23 22:19:11,anonymous,,,Jami Sai Tharun ,jamisaitharun@outlook.com,9393931126,https://learn.microsoft.com/en-in/users/saitharunjami-1133/
+62,11-25-23 22:28:30,11-25-23 22:30:02,anonymous,,,Mohammad Abdul Gafoor ,abdul.21bce9271@vitapstudent.ac.in,9494202084,https://learn.microsoft.com/en-us/users/mohammadabdulgafoor21bce9271-7836
+63,11-25-23 22:36:25,11-25-23 22:38:08,anonymous,,,Utkarsh Goel,utkarsh3663@gmail.com,7526019020,https://learn.microsoft.com/en-in/users/utkarshgoel-9138/
+64,11-25-23 22:41:59,11-25-23 22:43:53,anonymous,,,P TULASI VARDHAN REDDY,tulasivardhanreddyp@gmail.com,7780214011,https://learn.microsoft.com/en-us/users/tulasivardhanreddyp-7822/
+65,11-25-23 21:57:13,11-25-23 23:18:20,anonymous,,,Pothiraju Lahari Priya,priya.22bce20508@vitapstudent.ac.in,7674834220,https://learn.microsoft.com/en-gb/users/pothirajulaharipriya-1124/
+66,11-25-23 23:17:00,11-25-23 23:18:20,anonymous,,,POTHURAJU YASHASWINI,yashaswini.22bce9963@vitapstudent.ac.in,9390216571,https://learn.microsoft.com/en-us/users/pothurajuyashaswini-1459/
+67,11-25-23 23:01:31,11-25-23 23:32:31,anonymous,,,Aryan Lunia,aryanwindows7@gmail.com,7073321369,https://learn.microsoft.com/en-us/users/aryanlunia-7303/
+68,11-26-23 0:11:58,11-26-23 0:12:23,anonymous,,,E.E.Praneeta,praneeta.22bce20164@vitapstudent.ac.in,8341411973,https://learn.microsoft.com/en-in/users/eatieswaripraneeta-1718/
+69,11-26-23 8:23:59,11-26-23 8:25:34,anonymous,,,CH. Sri Sai Lokesh,lokesh.21BCE7155@vitapstudent.ac.in,9491408416,https://learn.microsoft.com/en-us/users/chsrisailokesh-7088/
+70,11-26-23 10:26:50,11-26-23 10:29:00,anonymous,,,SANGEETH KUMAR L,sangeeth.22bce8052@vitapstudent.ac.in,7708601776,https://learn.microsoft.com/en-us/users/sangeethkumarl-3472/
+71,11-26-23 22:20:40,11-26-23 22:22:48,anonymous,,,M Kanishka Venkat Sai ,kanishka2k15@gmail.com,9705301415,https://learn.microsoft.com/en-us/users/kanishkavenkatsai-9018/
